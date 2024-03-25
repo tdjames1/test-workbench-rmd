@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Lesson Title # FIXME
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: '' # FIXME
+    family-names: '' # FIXME
+    email: '' # FIXME
+    affiliation: University of Sheffield
+    orcid: 'https://orcid.org/0000-XXXX-XXXX-XXXX' # FIXME
+repository-code: 'https://github.com/' # FIXME
+url: '' # FIXME
+abstract: >-
+  # FIXME
+keywords: # FIXME
+  - carpentries
+  - fair4rs
+license: CC-BY-4.0
